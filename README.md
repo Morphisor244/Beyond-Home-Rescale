@@ -10,5 +10,5 @@ That alone doesn't change much about the feel of the homeplanet however. Without
 That's where the homeplanet-specific changes come in: Atmosphere height, temperature, pressure, gravity and visual atmosphere height are all changed to get the feeling just right.
 The end result being that achieving orbit of Rhode with this config is really very similar to how it is in JNSQ. Minor differences still apply; this config doesn't change the native temperature and pressure curves, for instance. It just changes the baseline values.
 
-Requirements: Sigma Dimensions
+Requirements: Sigma Dimensions.
 It WILL work without Beyond Home, but then there isn't much point to this config without it...
